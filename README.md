@@ -3,7 +3,7 @@ MSc Project – Personal Wellbeing Classification in the UK
 
 This repository contains the code and materials for my MSc Data Science project. The research explores the classification of personal wellbeing in the UK using survey data, applying a range of machine learning models and explainability methods.
 
-Project Overview
+##Project Overview##
 
 Objective: Predict individual wellbeing (categorized into high and very high) based on demographic, social, and health-related factors.
 
@@ -13,7 +13,7 @@ Outcome: Insights into the most important determinants of wellbeing and the pred
 
 The full methodology, results, and discussion are documented in the accompanying dissertation PDF.
 
-Repository Structure
+##Repository Structure##
 
 MSc_project.ipynb → Main notebook with the full pipeline and final results.
 
@@ -29,7 +29,7 @@ Other Notebooks (Robustness & Variants):
 
 5f_cleaned.ipynb
 
->4Threshold_noclean.ipynb
+'>4Threshold_noclean.ipynb'
 
 Prototype.ipynb
 
